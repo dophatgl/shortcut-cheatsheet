@@ -1,6 +1,6 @@
-Here are the must-know command line editing shortcuts in the terminal (for Bash, Zsh, and other readline-based shells):
+Here are the must-know command line editing shortcuts in the terminal (for Bash, Zsh, and other readline-based shells):\
 
-Cursor Movement
+Cursor Movement\
 	•	Ctrl + A → Move to the beginning of the line
 	•	Ctrl + E → Move to the end of the line
 	•	Ctrl + U → Cut (delete) everything before the cursor
@@ -10,7 +10,7 @@ Cursor Movement
 	•	Ctrl + H → Delete the previous character (same as Backspace)
 	•	Alt + D → Delete the word after the cursor
 
-Navigation by Word
+Navigation by Word\
 	•	Alt + B → Move backward one word
 	•	Alt + F → Move forward one word
 
